@@ -42,6 +42,8 @@ Week 5: `5BBB0226_Tutorial_Week_5_Worksheet_F.pdf`
 
 `Template_6Q0J.pdb`: PDB structure of 6Q0J as a template to model the query protein.
 
-__TEMPORARY:__ Links to SWISS-MODEL projects computed prior to the tutorial, allowing you to look at SWISS-MODEL's structure assessment for the above homology models
+__TEMPORARY:__ Links to SWISS-MODEL projects computed prior to the tutorial, allowing you to look at SWISS-MODEL's structure assessment for the above homology models:
+
 [Automated Mode: Tutorial (6Q0J)](https://swissmodel.expasy.org/interactive/TSpRVX/models/)
+
 [Alignment Mode: Tutorial (6N0P)](https://swissmodel.expasy.org/interactive/GfsYem/models/)
